@@ -1,0 +1,27 @@
+_repo: '----_25125'
+_version: 0.1.0
+alternative_title: Ming Huang Za Lu
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zheng, Chuhui, jin shi 834
+    alias: 鄭處誨
+    gutenberg_agent_id: '28423'
+    url: http://www.gutenberg.org/2009/agents/28423
+description: ''
+gutenberg_issued: '2008-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25125'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Tang Xuanzong, Emperor of China, 685-762 -- Anecdotes'
+- !lcsh 'China -- History -- Tang dynasty, 618-907 -- Anecdotes'
+title: 明皇雜錄
+url: http://www.gutenberg.org/ebooks/25125
